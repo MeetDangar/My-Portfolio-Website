@@ -203,7 +203,7 @@ section {
 .profile-wrap {
   position: relative;
   width: min(430px, 100%);
-  transition: transform 0.2s ease;
+  transition: transform 0.2ms ease;
   margin-top: 0%;
 }
 
