@@ -28,7 +28,6 @@ I am Meet Dangar, an aspiring DevOps and Cloud Engineer passionate about Linux, 
 This portfolio is created to present my technical skills, project experience, and professional profile in a simple and professional way.
 
 ## Live Website
-Add your live website link here:  
 [Visit Portfolio](https://meett.in)
 
 ## Contact
